@@ -32,6 +32,8 @@ This command installs the following:
 - `opencv-python` – Used to capture video from your webcam and display results
 - `numpy` – Helps with numerical operations and array handling
 
+---
+
 ## Acknowledgements
 
 This project uses the YOLOv8 face detection model provided by [@arnabdhar](https://huggingface.co/arnabdhar) on Hugging Face:
