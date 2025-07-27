@@ -32,13 +32,17 @@ This command installs the following:
 - `opencv-python` – Used to capture video from your webcam and display results
 - `numpy` – Helps with numerical operations and array handling
 
-## License
+## Acknowledgements
 
-This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+This project uses the YOLOv8 face detection model provided by [@arnabdhar](https://huggingface.co/arnabdhar) on Hugging Face:
 
-It uses the [YOLOv8-Face-Detection](https://huggingface.co/arnabdhar/YOLOv8-Face-Detection) model, which is also licensed under AGPL-3.0. As such, any public use of this software must also make the full source code available to users, as required by the AGPL license.
+🔗 [YOLOv8-Face-Detection Model on Hugging Face](https://huggingface.co/arnabdhar/YOLOv8-Face-Detection)
+
+The model is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. Please refer to the [original repository](https://huggingface.co/arnabdhar/YOLOv8-Face-Detection) for more information.
 
 See the [LICENSE](LICENSE) file for more details.
+
+---
 
 If you're working inside a virtual environment (which is a good practice), make sure to activate it before running the install command.
 
